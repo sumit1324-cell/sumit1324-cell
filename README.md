@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Sumit Kumar
 
-<!--
-**sumit1324-cell/sumit1324-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about transforming raw data into meaningful insights through analytics and interactive dashboards using SQL, Python, Power BI, and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- SQL
+- Python
+- Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+- Data Visualization
+- Data Cleaning
+- Business Intelligence
+
+---
+
+## 📂 Featured Projects
+
+### 📊 HR Analytics Dashboard
+Interactive HR Analytics Dashboard built using Power BI with DAX, Power Query, KPI Cards, and HR Insights.
+
+### 🍽️ Zomato Sales Dashboard
+Interactive Zomato Sales Analytics Dashboard built using Power BI with DAX, Power Query, KPI Cards, and business insights.
+
+---
+
+## 🛠️ Tech Stack
+
+- Power BI
+- SQL
+- Python
+- Excel
+- Git
+- GitHub
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sumit-kumar-41b349417
+- GitHub: https://github.com/sumit1324-cell
+
+---
+
+⭐ Thanks for visiting my profile!
